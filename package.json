@@ -1,8 +1,8 @@
 {
   "author": "Marco Murdocca (marco.murdocca@xenialab.it)",
   "name": "node-lzw",
-  "description": "LZW algorithm implementation",
-  "version": "0.1.0",
+  "description": "Lempel-Ziv-Welch (LZW) compression algorithm",
+  "version": "0.2.3",
   "repository": {
   	"type" : "git",
     	"url": "https://github.com/hormander/node-lzw"
@@ -10,10 +10,14 @@
   "main": "./lib/lzw.js",
   "keywords": [
     "lzw",
+    "Lempel",
+    "Ziv",
+    "Welch",
+    "AngularJS",
     "compression"
   ],
   "bin": {
-    "observer": "./lib/lzw.js"
+    "lzw": "./lib/lzw.js"
   },
   "dependencies": {},
   "engines": {
