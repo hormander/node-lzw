@@ -2,7 +2,7 @@
   "author": "Marco Murdocca (marco.murdocca@xenialab.it)",
   "name": "node-lzw",
   "description": "Lempel-Ziv-Welch (LZW) compression algorithm",
-  "version": "0.2.3",
+  "version": "0.2.5",
   "repository": {
   	"type" : "git",
     	"url": "https://github.com/hormander/node-lzw"
